@@ -40,8 +40,8 @@ export const projects = [
     description: "This is a React application to create a movie searching website, using fetch API.",
     image: '/images/zozo-movieland.png',
     tags: ['React', 'CSS', 'Javascript'],
-    source: 'https://github.com/ZOZO-coding/Dev/tree/main/MiniApp/react-movie-site',
-    visit: 'https://github.com/ZOZO-coding/Dev/tree/main/MiniApp/react-movie-site',
+    source: 'https://github.com/ZOZO-coding/zozo-movieland',
+    visit: 'https://github.com/ZOZO-coding/zozo-movieland',
     id: 4,
   },
   {
