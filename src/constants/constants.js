@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/tech-interview-website.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://github.com/ZOZO-coding/MERN_STACK',
-    visit: 'https://github.com/ZOZO-coding/MERN_STACK',
+    visit: 'https://zingy-parfait-4346f3.netlify.app',
     id: 0,
   },
   {
