@@ -27,13 +27,22 @@ export const projects = [
     id: 2,
   },
   {
+    title: 'ZoZo-Campaign',
+    description: "This is a front end campaign style website using Tailwind CSS to style the entire website.",
+      image: '/images/zozo-campaign.png',
+      tags: ['HTML', 'Javascript', 'Tailwind CSS'],
+    source: 'https://github.com/ZOZO-coding/zozo-campaign',
+    visit: 'https://zozo-campaign.onrender.com/',
+    id: 3,
+  },
+  {
     title: 'ZoeyNinja',
     description: "This is a simplified version of fruit ninja using HTML, CSS and Javascript, the game supports 2 players and each player can record their best scores, and advance to higher difficulties. Zoey is the name of my 4-year-old Pekingese",
     image: '/images/zoey-ninja.png',
     tags: ['HTML', 'CSS', 'Javascript'],
     source: 'https://github.com/ZOZO-coding/project-fruitNinja',
     visit: 'https://delicate-cheesecake-00ac04.netlify.app',
-    id: 3,
+    id: 4,
   },
   {
     title: 'ZoZo-Movieland',
@@ -42,7 +51,7 @@ export const projects = [
     tags: ['React', 'CSS', 'Javascript'],
     source: 'https://github.com/ZOZO-coding/zozo-movieland',
     visit: 'https://github.com/ZOZO-coding/zozo-movieland',
-    id: 4,
+    id: 5,
   },
   {
     title: 'Personal-Dashboard',
@@ -51,7 +60,7 @@ export const projects = [
     tags: ['React', 'Redux', 'CSS', 'Javascript'],
     source: 'https://github.com/ZOZO-coding/todolist',
     visit: 'https://zobuffytodolist.netlify.app',
-    id: 5,
+    id: 6,
   },
   {
     title: 'Celtics-Mock',
@@ -60,7 +69,7 @@ export const projects = [
     tags: ['HTML', 'CSS', 'Javascript'],
     source: 'https://github.com/ZOZO-coding/Dev/tree/main/Homeworks/week2/day1',
     visit: 'https://github.com/ZOZO-coding/Dev/tree/main/Homeworks/week2/day1',
-    id: 6,
+    id: 7,
   },
 ];
 
