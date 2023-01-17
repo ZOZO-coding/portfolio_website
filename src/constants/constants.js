@@ -11,7 +11,8 @@ export const projects = [
   {
     title: 'Recipe Website with Next.js',
     description: "Created and deployed a recipe website with Next.js, HTML/CSS, and JavaScript, connected with a headless CMS - Contentful for data fetching.Implemented features including data fetching with Contentful, incremental static regeneration, and fallback pages.",
-    tags: ['Next.js', 'Javascript', 'Contentful', 'HTML/CSS'],
+      image: '/images/zozo-recipe.png',
+      tags: ['Next.js', 'Javascript', 'Contentful', 'HTML/CSS'],
     source: 'https://github.com/ZOZO-coding/zozo-recipe',
     visit: 'https://zozo-recipe.vercel.app/',
     id: 1,
