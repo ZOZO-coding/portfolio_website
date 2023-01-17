@@ -18,7 +18,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js, MUI v5, Bootstrap
+            TypeScript, React.js, MUI v5, Bootstrap
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -28,7 +28,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node.js and Databases
+            Node.js, Java Spring Boot and Databases
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -38,7 +38,7 @@ const Technologies = () =>  (
           <ListTitle>Other</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Java (Sprint Boot) and Python
+            Python, Cloud Technologies
           </ListParagraph>
         </ListContainer>
       </ListItem>
