@@ -1,29 +1,12 @@
 export const projects = [
   {
-    title: 'NBA Dashboard',
-    description: "Developed a full stack dashboard for NBA match statistics where users can check results, statistics for the most recent games by team, or history game statistics from 2014 - 2022.",
-      image: '/images/nba-dashboard.png',
-      tags: ['Java', 'Spring Boot', 'Spring MVC', 'React', 'H2', 'Spring Batch'],
-    source: 'https://github.com/ZOZO-coding/nba-dashboard',
-    visit: 'http://nbadashboard-env.eba-6juq95ur.us-east-2.elasticbeanstalk.com/',
-    id: 0,
-  },
-  {
-    title: 'Recipe Website with Next.js',
-    description: "Created and deployed a recipe website with Next.js, HTML/CSS, and JavaScript, connected with a headless CMS - Contentful for data fetching.Implemented features including data fetching with Contentful, incremental static regeneration, and fallback pages.",
-    tags: ['Next.js', 'Javascript', 'Contentful', 'HTML/CSS'],
-    source: 'https://github.com/ZOZO-coding/zozo-recipe',
-    visit: 'https://zozo-recipe.vercel.app/',
-    id: 1,
-  },
-  {
     title: 'MERN Tech Interview Study Forum',
     description: "Using React, Node.js, Express & MongoDB to build a Full Stack MERN Application - users can post, like, comment on and manage study notes, and create to-do lists. Improved website security by providing user authentication using JWT, Bcrypt.",
       image: '/images/tech-interview-website.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://github.com/ZOZO-coding/MERN_STACK',
     visit: 'https://zingy-parfait-4346f3.netlify.app',
-    id: 2,
+    id: 0,
   },
   {
     title: 'E-Commerce-BestBuy-Mock',
@@ -32,7 +15,7 @@ export const projects = [
     tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://github.com/ZOZO-coding/Project_Electronics',
     visit: 'https://github.com/ZOZO-coding/Project_Electronics',
-    id: 3,
+    id: 1,
   },
   {
     title: 'Youtube-Clone',
@@ -41,7 +24,7 @@ export const projects = [
       tags: ['React', 'RapidAPI', 'Material-UI-v5'],
     source: 'https://github.com/ZOZO-coding/youtube_clone',
     visit: 'https://comfy-chebakia-326f85.netlify.app',
-    id: 4,
+    id: 2,
   },
   {
     title: 'ZoZo-Campaign',
@@ -50,7 +33,7 @@ export const projects = [
       tags: ['HTML', 'Javascript', 'Tailwind CSS'],
     source: 'https://github.com/ZOZO-coding/zozo-campaign',
     visit: 'https://zozo-campaign.onrender.com/',
-    id: 5,
+    id: 3,
   },
   {
     title: 'ZoeyNinja',
@@ -59,7 +42,7 @@ export const projects = [
     tags: ['HTML', 'CSS', 'Javascript'],
     source: 'https://github.com/ZOZO-coding/project-fruitNinja',
     visit: 'https://delicate-cheesecake-00ac04.netlify.app',
-    id: 6,
+    id: 4,
   },
   {
     title: 'ZoZo-Movieland',
@@ -68,7 +51,7 @@ export const projects = [
     tags: ['React', 'CSS', 'Javascript'],
     source: 'https://github.com/ZOZO-coding/zozo-movieland',
     visit: 'https://github.com/ZOZO-coding/zozo-movieland',
-    id: 7,
+    id: 5,
   },
   {
     title: 'Personal-Dashboard',
@@ -77,7 +60,7 @@ export const projects = [
     tags: ['React', 'Redux', 'CSS', 'Javascript'],
     source: 'https://github.com/ZOZO-coding/todolist',
     visit: 'https://zobuffytodolist.netlify.app',
-    id: 8,
+    id: 6,
   },
   {
     title: 'Celtics-Mock',
@@ -86,13 +69,15 @@ export const projects = [
     tags: ['HTML', 'CSS', 'Javascript'],
     source: 'https://github.com/ZOZO-coding/Dev/tree/main/Homeworks/week2/day1',
     visit: 'https://github.com/ZOZO-coding/Dev/tree/main/Homeworks/week2/day1',
-    id: 9,
+    id: 7,
   },
 ];
 
 export const TimeLineData = [
   { year: 2017, text: 'Started as a sales team leader', },
   { year: 2018, text: 'Worked as a project manager', },
+  // { year: 2019, text: 'Founded JavaScript Mastery', },
+  // { year: 2020, text: 'Shared my projects with the world', },
   { year: 2021, text: 'Got my PMP certification', },
-  { year: 2022, text: 'Started as a self-taught, freelance full stack developer', },
+  { year: 2022, text: 'Started as a self-taught full stack developer', },
 ];
